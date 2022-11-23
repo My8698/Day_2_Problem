@@ -1,5 +1,4 @@
 package com.bridgelabz.basics;
-
 public class ReverseUsingWhile {
     public static void main(String[] args) {
         int num=123,reverse=0;
