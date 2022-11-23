@@ -1,7 +1,5 @@
 package com.bridgelabz.basics;
-
 import java.util.Scanner;
-
 public class VowelConsonantUsingSwitch {
     public static void main(String[] args) {
         boolean bool=false;
