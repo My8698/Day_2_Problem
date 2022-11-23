@@ -1,8 +1,8 @@
 package com.bridgelabz.basics;
 public class SumOfNumUsingWhile {
     public static void main(String[] args) {
-        int i=1,num=5,sum=0;
-        while (i<=num)
+        int i=1,number=5,sum=0;
+        while (i<=number)
         {
             sum=sum+i;
             i++;
