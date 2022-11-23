@@ -4,9 +4,9 @@ public class VowelConsonantUsingSwitch {
     public static void main(String[] args) {
         boolean bool=false;
         System.out.println("Enter character->");
-        Scanner scn=new Scanner(System.in);
-        char ch=scn.next().charAt(0);
-        switch (ch){
+        Scanner scanner=new Scanner(System.in);
+        char choice=scanner.next().charAt(0);
+        switch (choice){
             case 'A':
             case 'E':
             case 'I':
