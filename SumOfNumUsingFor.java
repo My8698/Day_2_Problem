@@ -1,5 +1,4 @@
 package com.bridgelabz.basics;
-
 public class SumOfNumUsingFor {
     public static void main(String[] args) {
         int i,num=5,sum=0;
