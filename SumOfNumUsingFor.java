@@ -1,8 +1,8 @@
 package com.bridgelabz.basics;
 public class SumOfNumUsingFor {
     public static void main(String[] args) {
-        int i,num=5,sum=0;
-        for (i=1;i<=num;++i)
+        int i,number=5,sum=0;
+        for (i=1;i<=number;++i)
         {
             sum=sum+i;
         }
